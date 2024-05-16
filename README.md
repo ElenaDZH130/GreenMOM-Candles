@@ -134,15 +134,5 @@
         <section id="form" class="form-container">
             <h2>Свяжитесь со мной</h2>
             <form action="https://example.com/submit-form" method="POST">
-                <input type="text" name="name" placeholder="Ваше имя" required>
-                <input type="email" name="email" placeholder="Ваш email" required>
-                <textarea name="message" rows="4" placeholder="Ваше сообщение" required></textarea>
-                <button type="submit">Отправить</button>
-            </form>
-        </section>
-    </div>
-    <footer>
-        <p>&copy; 2024 Авторские свечи GreenMOM. Все права защищены.</p>
-    </footer>
-</body>
-</html>
+                <input type="text" name="name" placeholder
+
